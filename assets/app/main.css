@@ -46,7 +46,7 @@ html {
     width: var(--width);
     margin-left: auto;
     margin-right: auto;
-    padding-top: calc(50px + env(safe-area-inset-top));
+    padding-top: calc(15px + env(safe-area-inset-top));
     padding-bottom: 120px; /* space for bottom bar */
     box-sizing: border-box;
 }

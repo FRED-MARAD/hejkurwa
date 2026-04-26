@@ -34,7 +34,7 @@ const userData = {
     // Możesz wstawić tutaj URL do zdjęcia lub base64
     // UWAGA: Linki z ImgBB typu https://ibb.co/rfQX5yX0 to strony przeglądarki. 
     // Musisz użyć "Kopiuj adres obrazu" (direct link), np. https://i.ibb.co/xxxx/image.jpg
-    photoUrl: "https://i.imgur.com/7vHo48p.jpg"
+    photoUrl: "https://i.ibb.co/bR6GNdGm/Subject.jpg"
 };
 
 // ==============================================
